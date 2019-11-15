@@ -1,0 +1,12 @@
+com\place\Application.class
+com\place\web\DetailedPlaceDto.class
+com\place\service\PlaceService.class
+com\place\repository\PlaceRepository.class
+com\place\web\PlaceController.class
+com\place\error\CustomErrorResponse.class
+com\place\model\Place.class
+com\place\service\PlaceServiceImpl.class
+com\place\error\CustomErrorAttributes.class
+com\place\error\PlaceUnSupportedFieldPatchException.class
+com\place\error\PlaceNotFoundException.class
+com\place\error\CustomGlobalExceptionHandler.class

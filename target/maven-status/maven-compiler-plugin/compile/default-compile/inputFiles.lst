@@ -1,0 +1,12 @@
+C:\Projetos\zMeu\spring-data-jpa-3\src\main\java\com\place\error\CustomErrorResponse.java
+C:\Projetos\zMeu\spring-data-jpa-3\src\main\java\com\place\model\Place.java
+C:\Projetos\zMeu\spring-data-jpa-3\src\main\java\com\place\service\PlaceService.java
+C:\Projetos\zMeu\spring-data-jpa-3\src\main\java\com\place\web\PlaceController.java
+C:\Projetos\zMeu\spring-data-jpa-3\src\main\java\com\place\web\DetailedPlaceDto.java
+C:\Projetos\zMeu\spring-data-jpa-3\src\main\java\com\place\repository\PlaceRepository.java
+C:\Projetos\zMeu\spring-data-jpa-3\src\main\java\com\place\Application.java
+C:\Projetos\zMeu\spring-data-jpa-3\src\main\java\com\place\error\CustomErrorAttributes.java
+C:\Projetos\zMeu\spring-data-jpa-3\src\main\java\com\place\error\PlaceNotFoundException.java
+C:\Projetos\zMeu\spring-data-jpa-3\src\main\java\com\place\error\CustomGlobalExceptionHandler.java
+C:\Projetos\zMeu\spring-data-jpa-3\src\main\java\com\place\service\PlaceServiceImpl.java
+C:\Projetos\zMeu\spring-data-jpa-3\src\main\java\com\place\error\PlaceUnSupportedFieldPatchException.java
