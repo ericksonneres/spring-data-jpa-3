@@ -1,8 +1,13 @@
 ### Relevant :
+
 git clone https://github.com/ericksonneres/spring-data-jpa-3.git
+
 cd spring-data-jpa-3
+
 mvn install
+
 mvn clean spring-boot:run
+
 
 GET: http://localhost:8080/places
 GET: http://localhost:8080/places/{name}
