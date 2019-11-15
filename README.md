@@ -26,6 +26,6 @@ Payload Request (POST/PUT):
     "name": "Amy",
     "slug": "",
     "city": "Osasco",
-    "state": "SP",
+    "state": "SP"
     
 }
